@@ -1,1 +1,1 @@
-# build_extension
+# Social media blocker extension
